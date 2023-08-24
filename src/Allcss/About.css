@@ -1,0 +1,305 @@
+
+  .itemm-first{
+    background-color: brown;
+    background-image:url(../assets/img/10001.jpg) ;
+     margin: 7px;
+    background-size: cover;
+    filter: grayscale(100%);
+
+  }
+  
+  .itemm-first:hover {
+    filter: none;
+    -webkit-filter: grayscale(0);
+    transition: 0.3s;
+    transition: all 0.3s ease-out;
+   
+}
+  .itemm-second{
+    background-color: brown;
+    margin: 7px;
+    background-image:url(../assets/img/10002.jpg) ;
+    background-size: cover;
+    filter: grayscale(100%);
+  }
+  .itemm-second:hover {
+    filter: none;
+    -webkit-filter: grayscale(0);
+    transition: 0.3s;
+}
+  .itemm-third{
+    background-color: brown;
+    margin: 7px;
+    background-image:url(../assets/img/10003.jpg) ;
+    background-size: cover;
+    filter: grayscale(100%);
+  }
+  .itemm-third:hover {
+    filter: none;
+    -webkit-filter: grayscale(0);
+    transition: 0.3s;
+}
+  
+  .mainn-containerr {
+    display: flex;
+    width: calc(100vw - 16px);
+    height: calc(50vh - 16px);
+    justify-content: strech;
+   
+  }
+
+  
+  .mainn-containerr div.containera {
+    flex-grow: 1;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    
+  }
+  
+  .mainn-containerr div.first-container {
+    flex: 2; 
+   
+  }
+  
+  .mainn-containerr div.containera div {
+    flex-grow: 1;
+    
+  }
+  /*card*/
+
+  .abtcrd {
+   
+    
+    border-radius: 5px;
+    padding: 24px; /* Increase the padding to add more space inside the card */
+    margin: 10px;
+    flex: 1;
+    max-width: 500px; /* Increase the max-width to make the card bigger */
+    
+    min-height: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Align items to the start (left) */
+    position: relative; /* Set the position to enable absolute positioning for the icon */
+    transition: background-color 0.3s ease;
+    transition:.6s;
+  
+    
+   
+  
+    
+  }
+
+  
+  
+  .icon-container {
+    
+    
+    padding: 20px;
+    margin-bottom: 10px;
+  }
+  .abtcrd hr {
+    width: 100%;
+  
+    border: 0;
+    border-top: 3px solid #fff; /* Add a white horizontal line under the title */
+    margin: 8px 0; /* Add margin to the line for spacing */
+  }
+  
+  .icon-container svg {
+    width: 40px;
+    height: 40px;
+    color: #E9204F;
+    transition: color 0.3s ease; /* Add transition for a smooth color change */
+    
+  }
+ 
+  .abtcrd h2{
+    font-family: "Poppins", Sans-serif;;
+    
+     font-size: 22px;
+     font-weight: 600;
+     line-height: 1.5rem;
+    margin: 0px 0px 5px 0px;
+    text-overflow: ellipsis;
+    
+    white-space: nowrap;
+    
+   }
+   .abtcrd p {
+    color: #747474;
+    font-weight: 400;
+    line-height: 26px;
+    
+   }
+   .abtcrd img{
+    width: 20%;
+    
+   }
+  
+
+/*responsive */
+ /* Landscape tablets and medium desktops */
+ @media (min-width: 1366px) and (max-width: 1670px) {
+  
+
+}
+
+/* Portrait tablets and small desktops */
+@media (min-width: 768px) and (max-width: 991px) {
+
+  .mainn-containerr {
+    display: grid;
+    
+    width: calc(100vw - 16px);
+    height: 110vh;
+    justify-content: strech;
+    
+  }
+  .itemm-second{
+  
+    margin: 7px;
+    height: 35vh;
+     
+  }
+  .itemm-first{
+   
+    margin: 7px;
+    height: 35vh;
+
+  
+   
+  }
+  .itemm-third{
+
+    margin: 7px;
+    height: 35vh;
+    width: 80vw;
+  
+  }
+  .abtcrd{
+    min-height: 50px;
+  }
+  
+  
+
+
+}
+
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+  .mainn-containerr {
+    display: grid;
+    
+    width: calc(100vw - 16px);
+    height: 110vh;
+    justify-content: strech;
+  }
+  .itemm-second{
+  
+    margin: 7px;
+    height: 35vh;
+     
+  }
+  .itemm-first{
+   
+    margin: 7px;
+    height: 35vh;
+
+  
+   
+  }
+  .itemm-third{
+
+    margin: 7px;
+    height: 35vh;
+    width: 90vw;
+  
+  }
+  .abtcrd{
+    min-height: 50px;
+  }
+  
+
+
+}
+
+/* Portrait phones and smaller */
+@media (max-width: 480px) {
+
+  .mainn-containerr {
+    display: grid;
+    
+    width: calc(100vw - 16px);
+    height: 110vh;
+    justify-content: strech;
+  }
+  .itemm-second{
+  
+    margin: 7px;
+    height: 35vh;
+     
+  }
+  .itemm-first{
+   
+    margin: 7px;
+    height: 35vh;
+
+  
+   
+  }
+  .itemm-third{
+
+    margin: 7px;
+    height: 35vh;
+    width: 90vw;
+  
+  }
+  .abtcrd{
+    min-height: 50px;
+  }
+  
+
+}
+/* Portrait phones and smaller */
+@media (min-width: 993px) and (max-width: 1000px){
+
+  .mainn-containerr {
+    display: grid;
+    
+    width: calc(100vw - 16px);
+    height: 110vh;
+    justify-content: strech;
+  }
+  .itemm-second{
+  
+    margin: 7px;
+    height: 35vh;
+    width: 90vw;
+  }
+  .itemm-first{
+   
+    margin: 7px;
+    height: 35vh;
+
+  
+   
+  }
+  .itemm-third{
+
+    margin: 7px;
+    height: 35vh;
+    width: 80vw;
+  
+  }
+  .abtcrd{
+    min-height: 50px;
+  }
+  
+
+
+
+}
+
+

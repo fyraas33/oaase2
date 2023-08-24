@@ -1,0 +1,213 @@
+{
+
+    "banner":{
+        "wedo": "Votre voyage",
+        "digital":"DIGITAL, un pixel à la fois",
+        "start":"Commencer",
+        "WebApp":"Application web",
+        "Digital":"Transformation digital",
+        "Marketing":"Marketing digital",
+        "card1p":"Conception, développement et contenu personalisées pour votre application web par une agence qualifiée.",
+        "card2p":"Découverte et planification - du positionement à la pile technologique, aux tactiques et au-delà.",
+        "card3p":"Une gamme complète de services de marketing pour vous aider à atteindre vos objectifs, le tout sous un même toit."
+    },
+    
+   "navbar" :{
+        "home": "Accueil",
+        "services": "Services",
+        "solutions": "Solutions",
+        "about": "À propos",
+        "insights": "Perspectives",
+        "contact": "Contact"
+      },
+   
+    "services":{
+      "wewrk":"NOUS CROYONS EN L'INNOVATION",
+      "Outs":"Externalisation",
+      "3d":"Visualisation 3D",
+      "mcrsft":"Solutions Microsoft",
+      "web3":"SOLUTIONS WEB 3.0" 
+    },
+    "solutions":{
+      "wdo":"NOUS FAISONS DE GRANDES CHOSES",
+      "title1":"Application de réalité augmentée",
+      "title2":"Application de gestion des prospects",
+      "title3":"Centre d'appels CRM",
+      "solcp1":"Grâce à cette application, des modèles 3D peuvent être affichés à différents endroits. Le résultat est un marketing individuel et créatif.",
+      "solcp2":"Il s'agit du processus global de bout en bout de gestion du cycle de vie des prospects. Cela implique de capturer et d'acquérir des prospects à partir de différentes sources, de les qualifier, de les distribuer aux commerciaux, de suivre et d'enregistrer les interactions en ligne et hors ligne, telles que les e-mails, les clics publicitaires, les visites de sites Web, les appels téléphoniques et les réunions en face à face.",
+      "solcp3":"Désigne un outil logiciel que les agents des centres d'appels utilisent pour améliorer l'expérience client et accroître l'efficacité. Les systèmes de CRM pour centres d'appels stockent des données sur les clients, telles que des informations sur les comptes et l'historique des contacts."
+
+    },
+    "about":{
+      "abt":"À PROPOS DE.",
+      "more":"NOUS SOMMES PLUS QU'UNE AGENCE NUMÉRIQUE",
+      "hwrt":"Qui nous sommes",
+      "hwrp":"OAASE est un réseau de consultants en informatique et en gestion basé sur une société suisse. Nous combinons une expérience professionnelle dans le développement de logiciels et un savoire-faire dans la mise en place et la gestion d'équipes offshore en Afrique du Nord.",
+      "orphy":"Notre philosophie",
+      "orphyp":"La société propose des services de développement de logiciels, de développement d'ERP, de sites Web, d'applications mobiles, de 3D, de RV, de marketing numérique, de stratégie de marque et de conseil, allant des études de faisabilité et de l'optimisation des opérations existantes à la création et à la gestion de centres de développement offshore dédiés.",
+      "hwrk":"Notre méthode de travail",
+      "hwrkp":"L'équipe de développment travaillant sur un projet n'utilise que des technologies modernes et évolutives pour mettre en oeuvre des applications mobiles et web come vous l'entendez."
+    
+    },
+    "footer":{
+      "talk":"Parlons-en ?",
+      "make":"Faire une demande!",
+      "swiss":"La Suisse.",
+      "nmbr":"Nos Numéros",
+      "agb":"Conditions",
+      "Impressum":"Imprimer",
+      "Datens":"Protection des données"
+      
+    },
+    "OUTSOURCING":{
+      "title": "EXTERNALISEZ EFFICACEMENT VOTRE DÉVELOPPEMENT REACT.JS",
+      "undrtlt":"NOUS SOMMES PLUS QU'UNE AGENCE DIGITALE",
+      "prgrph":"React.js offre un large éventail d'applications potentielles, c'est pourquoi vous pourriez souhaiter l'inclure dans votre projet. Si c'est le cas et que vous n'avez pas d'équipe de développement interne, confier votre développement React à OAASE peut être une bonne décision. Il y a bien sûr des façons correctes et incorrectes d'accomplir cette tâche. Prendre la décision appropriée peut également vous simplifier la vie et vous apporter des résultats plus étonnants. À la lumière de ce qui précède, les caractéristiques suivantes d'une équipe de développement React.js digne de confiance devraient être présentes :",
+      "crdtlt1":"Des développeurs ReactJS dévouées avec des années d'expérience",
+      "cardp1":"Chez OAASE, nos développeurs utilisent ReactJs depuis ses débuts pour créer des sites et des applications web dynamiques. Nos développeurs ont également de l'expérience avec d'autres technologies web, notamment Angular, Vue.js, Flutter et Blazor.",
+       "cardtlt2":"Gestion de projet simplifiée",
+       "cardp2":"En vous guidant à chaque étape du cycle de développement, nous vous libérons du temps pour que vous et le reste de votre équipe puissiez-vous concentrer sur vos activités principales. Chez OAASE, notre équipe de développeurs et de chefs de projet s'occupe de tout pour vous, afin que vous puissiez vous concentrer sur ce que vous faites le mieux : gérer une entreprise prospère.",
+       "cardtlt3":"Excellent compétences",
+       "cardtlt3-2":"en communication",
+       "cardp3":"Une bonne communication est essentielle à la réussite d'un projet. En confiant vos besoins en développement ReactJs à une entreprise capable d'écouter, de poser des questions (et d'y répondre) et de vous fournir des mises à jour régulières, vous pouvez vous détendre en sachant que votre projet est entre de bonnes mains.",
+       "cardtlt4":"Rentabilité",
+       "cardp4":"Vous n'avez pas besoin de rechercher et de recruter votre propre équipe de développement interne, ce qui vous permet d'économiser beaucoup de temps et d'argent sur les coûts de recrutement. Chez OAASE, notre équipe de développeurs de logiciels dédiés est entièrement formée, qualifiée et prête à travailler sur votre projet. Il vous suffit de nous communiquer les détails de votre projet, et nous nous occuperons du reste pour vous !",
+       "wlcm":"BIENVENUE À OAASE",
+       "wrbreact":"QUELS SONT LES AVANTAGES DE REACTJS?",
+       "lastp":"Bien qu'il existe un grand nombre de bibliothèques JavaScript, au fil des ans, les développeurs et les entreprises se sont tournés vers ReactJs pour un certain nombre de raisons. En fait, on estime que plus de 1 160 652 sites web utilisent ReactJs, notamment Yahoo, Discord et PayPal, pour n'en citer que quelques-uns.",
+       "img":"./abtreact_fr.png"
+      
+      
+     
+           },
+
+           "3d":{
+            "1":"Visualisation 3D",
+            "2":"Services de rendu 3D pour l'immobilier et l'architecture",
+            "3":"Rendu d'intérieur",
+            "4":"Un outil efficace pour exprimer des idées de conception et obtenir des images saisissantes pour la prévente de biens immobiliers. L'utilisation d'images générées par ordinateur (CGI) peut donner vie à n'importe quel concept et permettre l'impossible : présenter le design, le zonage, les matériaux, les textures, les couleurs, l'éclairage, le mobilier et d'autres éléments d'un lieu. Les images de synthèse professionnelles ressemblent également à une œuvre d'art. C'est beau, photoréaliste, atmosphérique et l'outil de marketing idéal.",
+            "5":"Rendu extérieur",
+            "6":"Une solution CGI qui a transformé les secteurs de l'immobilier et de l'architecture. Les bâtiments de toute taille ou de tout type peuvent être montrés à l'aide de la visualisation extérieure avant même que toute construction réelle n'ait été planifiée. Grâce aux rendus extérieurs photoréalistes, les architectes et les promoteurs peuvent facilement communiquer leurs concepts aux clients, aux ouvriers et aux juges des concours. Les services de rendu extérieur peuvent donner vie à des maisons luxueuses, à de vieilles demeures attachantes, à des gratte-ciels à couper le souffle et à des restaurants.",
+            "7":"Animation CG",
+            "8":"Une clé qui libère les émotions et stimule l'imagination des spectateurs. Dans le film d'architecture, le public visite la propriété comme si elle était déjà achevée. Il présente l'environnement, l'aménagement extérieur, et guide le visiteur à l'intérieur de la structure. L'animation architecturale peut également mettre en évidence la perfection de la conception et de chaque détail intérieur, et permettre aux spectateurs d'admirer les vues à couper le souffle depuis les fenêtres. Cet outil visuel incroyablement immersif constitue un véritable avantage concurrentiel pour le marketing et les présentations immobilières.",
+            "9":"Visites virtuelles 3D",
+            "10":"Une solution CGI interactive de premier ordre qui peut captiver les acheteurs potentiels. Les agents immobiliers, les promoteurs et les architectes peuvent l'utiliser pour proposer aux clients potentiels et aux consommateurs des visites autoguidées des propriétés et des projets dont ils font la promotion. En outre, les visiteurs peuvent voir tous les aspects de la propriété immobilière potentielle et découvrir son ambiance de première main. Et ce n'est pas tout. Pour les visites virtuelles en 3D, des options de personnalisation et des détails sur les éléments utilisés dans la décoration intérieure peuvent être ajoutés.",
+            "11":"Début le jour même, livraison en deux semaines, et résultats CGI photoréaliste sans limites",
+            "12":"FINALISER LE BRIEF",
+            "13":"Envoyez-nous un dossier détaillé ainsi que le matériel nécessaire pour établir un devis et commencer le travail.",
+            "14":"GARDEZ LE CONTACT",
+            "15":"Examinez les premiers résultats et donnez votre avis afin que nous puissions poursuivre ou apporter des modifications.",
+            "16":"APPROUVER",
+            "17":"Approuver l'ébauche du rendu 3D que vous souhaitez que nous produire.",
+            "18":"OBTENEZ DES RÉSULTATS",
+            "19":"Obtenez des photos prêtes pour le marketing à la résolution que vous choisissez, avec un éclairage, des reflets et des matériaux excellents."
+
+          },
+          "mcrsft":{
+            "1":"APPLICATIONS COMMERCIALES",
+            "2":"Utilisez des solutions telles que Microsoft Office, CRM et ERP pour diriger   ",
+            "3":"votre entreprise et augmenter la productivité de vos employés.",
+            "4":"Microsoft 365 est une suite d'applications qui aide les entreprises à réduire leurs coûts, à mettre en place une main-d'œuvre numérique et à donner le meilleur d'elles-mêmes, où qu'elles soient. Conçue pour vous aider à en faire plus grâce à des Apps Office innovantes, des services cloud intelligents et une sécurité de classe mondiale. Ces solutions sont destinées à répondre aux besoins de toutes les entreprises différentes. OAASE offre les forfaits Microsoft 365 Business et Microsoft 365 Enterprise.",
+    "5":"Microsoft Dynamics 365 est une famille d'applications de planification des ressources de l'entreprise (ERP) et de gestion de la relation client (CRP). Il existe plus d'une douzaine d'applications et de modules complémentaires, tous conçus pour offrir à votre entreprise une flexibilité maximale et l'aider à être plus agile. Vous disposerez d'un portefeuille d'applications professionnelles intelligentes qui permettront à chacun d'atteindre l'excellence opérationnelle et de créer des expériences client plus attrayantes. Les applications Dynamics 365 sont conçues pour fonctionner ensemble - et avec vos systèmes existants - pour une solution complète qui relie l'ensemble de votre entreprise.",
+    "6":"ESSENTIALS (IDENTITÉ AAD)",
+    "7":"Disponible pour une durée limitée exclusivement chez OAASE, Microsoft Teams Essentials (AAD Identity) réunit le meilleur de Teams avec les réunions, le chat, les appels et la collaboration. Teams Essentials peut se connecter à votre système de messagerie électronique existant pour offrir une expérience intégrée, comme le fait d'avoir toutes les notifications de Teams dans votre boîte de réception existante, tous les événements du calendrier dans Teams et la possibilité de se connecter à Teams avec votre adresse électronique existante.",
+    "8":"SECTEURES SPÉCIAUX DE MICROSOFT    ",
+    "9":"Vous pouvez acheter des licences Microsoft spéciales si vous faites partie de l'un des trois secteurs spécialisés - éducation, gouvernement ou association à but non lucratif. Bénéficiez d'une technologie facile à gérer, abordable et sécurisée pour votre entreprise. Voir ci-dessous pour l'éligibilité et les qualifications pour chaque secteur.",
+    "10":"SÉCURITÉ MICROSOFT    ",
+    "11":"Les solutions de sécurité Microsoft protègent votre entreprise contre les cybermenaces sur l'ensemble des services en nuage Microsoft et tiers. Détectez, identifiez et répondez aux attaques tout en maintenant les employés formés et sensibilisés aux menaces futures. Des licences complémentaires sont également disponibles pour évaluer les risques de conformité, sécuriser les données sensibles, réduire les risques internes et obtenir des services de protection contre les menaces.",
+    "12":"PRODUITS MICROSOFT POWER ",
+    "13":"Les produits Power exploitent la puissance de l'IA pour gagner du temps, automatiser les tâches répétitives et effectuer des analyses sur les données. Obtenez le retour d'information dont votre entreprise a besoin de la part de vos clients avec l'un ou l'ensemble des produits Power ci-dessous."
+
+          },
+          "web3":{
+            "1":"Société privée de développement de blockchain",
+            "2":"OAASE a l'expérience et l'expertise pour fournir des écosystèmes privés de haute qualité,",
+            "3":"sécurisés et équilibrés basés sur les blockchains.",
+            "4":"DÉVELOPPEMENT DE",
+            "5":"BLOCKCHAINS PRIVÉES",
+            "6":"OAASE développe des blockchains privées pour les entreprises afin que vous puissiez effectuer des transactions rapides, peu coûteuses et à faible risque entre vous et vos partenaires commerciaux et clients",
+            "7":"DÉVELOPPEMENT DE CONTRATS INTELLIGENTS (ICO)",
+            "8":"Nous pouvons aider votre entreprise à se débarrasser des intermédiaires qui prennent beaucoup de temps grâce à nos solutions de développement de contrats intelligents. Ces solutions sont conçues pour aider les entreprises à mettre en œuvre leurs idées avec succès, sans interventions chronophages ni formalités administratives inutiles et ennuyeuses. Nombre de nos solutions prévoient d'automatiser le processus afin de libérer du temps, d'économiser de l'argent et d'accroître l'efficacité globale de votre entreprise.",
+            "9":"DÉVELOPPEMENT D'ÉCHANGE",
+            "10":"DE CRYPTO-MONNAIES",
+            "11":"Nos développeurs bitcoin vous offriront une expérience d'échange de crypto-monnaies transparente, aussi sécurisée que rapide et facile à utiliser. Si votre entreprise fonctionne avec des crypto-monnaies, vous pouvez faire confiance à OAASE pour améliorer vos transactions d'échange de crypto-monnaies, en vous faisant gagner du temps et de l'argent dans le processus.",
+            "12":"SOLUTION DE COMMERCE ÉLECTRONIQUE DISTRIBUÉ",
+            "13":"Les entreprises de commerce électronique ont largement bénéficié de la technologie blockchain ces dernières années. Si votre entreprise est dans le secteur du commerce électronique, OAASE peut vous aider à la révolutionner avec des solutions rentables, rapides et sûres qui amélioreront les performances de votre entreprise et sa capacité à concurrencer les autres entreprises de commerce électronique",
+            "14":"Solutions NFT pour les marques de style de vie, les sports,",
+            "15":"et les jeux vidéo",
+            "16":"Les NFT pour les clubs et organisations sportives améliorent l'engagement des supporters et de la communauté",
+            "17":"UN.",
+    "18":" Les ENF peuvent renforcer l'engagement des supporters envers leur club de sport préféré. Ils représentent de nouvelles façons de soutenir le club et de participer aux décisions de l'équipe. Les organisations sportives peuvent créer des programmes de fidélisation avec des jetons comme récompense pour un soutien inconditionnel. La gamification de l'engagement pourrait susciter plus d'enthousiasme pour les événements en personne, les expériences en ligne et les ligues de sports fantaisistes.  ",
+    "19":"DEUX.",
+    "20":" Les données NFT peuvent également permettre de mieux comprendre les intérêts et le comportement des supporters. Les organisations sportives peuvent exploiter ces données pour proposer des activités et des produits dérivés très demandés, ainsi que pour activer des flux de revenus plus efficaces.",
+    "21":"Les NFT pour les marques de luxe améliorent les opportunités secondaires",
+    "22":" Associer un NFT à un produit de luxe peut aider à résoudre les problèmes d'authenticité et de certification. En émettant des NFT sur Ethereum, les consommateurs peuvent être assurés de la provenance et de l'authenticité d'un produit, et les marques peuvent intégrer des structures de revente plus efficaces.",
+    "23":"Tout comme les produits de luxe suscitent le désir par la rareté, les NFT des marques de luxe créent une rareté numérique. Les NFT peuvent devenir un nouveau produit et une nouvelle source de revenus pour les marques, leur permettant d'expérimenter la créativité au-delà du monde physique tout en créant d'autres façons de s'engager avec les clients.",
+    "24":"NFTs pour les artistes et les émetteurs Développer la culture et la valeur de l'art numérique",
+    "25":"Qu'il s'agisse d'art génératif, de collections de photos de profil ou d'œuvres uniques, les NFT se sont imposés comme un nouveau moyen de représenter la propriété de l'art numérique sur Internet. De plus en plus de personnes utilisent les ENF comme avatar en ligne et contribuent aux initiatives de développement de la communauté en ligne.    ",
+    "26":" Commencez à capturer de la valeur à travers les transactions du marché secondaire. Les NFT sont programmables, ce qui permet aux artistes et aux organisations de percevoir des redevances et un pourcentage de la valeur de revente après la vente initiale ou la vente aux enchères. Les organisations comme les particuliers peuvent continuer à percevoir des revenus au fur et à mesure que leurs œuvres sont revendues.",
+    "27":"NFTs pour les organisations de jeux Créer des économies de jeu et catalyser la croissance organique",
+    "28":" Les NFT élargissent les univers de jeu en permettant aux joueurs de débloquer des actifs dans le jeu. Les créateurs de jeux peuvent accorder aux joueurs la propriété réelle et la transférabilité des actifs qu'ils obtiennent, les incitant à s'engager davantage dans l'univers du jeu. Ce modèle <play-to-earn> (jouer pour gagner) est une stratégie utile pour encourager les joueurs à faire progresser l'économie du jeu, puisqu'ils ont un enjeu de valeur.",
+    "29":"Le transfert de la propriété et des récompenses aux joueurs peut avoir des effets en cascade dans le cadre de l'adoption effective d'un jeu, tels qu'une loyauté accrue, une croissance organique et une compatibilité avec d'autres projets.",
+    "30":"NFT pour les artistes et les soutiens musicaux Simplifier les redevances et faciliter la liberté de création",
+    "31":"Grâce aux contrats intelligents sur Ethereum, les artistes peuvent recevoir des redevances instantanément par le biais des ventes secondaires de NFTs. Les jetons permettent de générer de nouvelles sources de revenus pour les musiciens, avec une meilleure interaction avec les fans, et de nouvelles voies de diffusion de la musique. Les fans peuvent utiliser les jetons de leurs artistes préférés pour débloquer des avantages exclusifs tels que des événements spéciaux, des produits dérivés, des suppléments d'album, et même la propriété partielle de chansons.",
+    "32":" Les artistes peuvent créer et lancer leurs propres collections de NFT pour accompagner les sorties d'album, et les artistes indépendants peuvent développer un public et une communauté par eux-mêmes sans avoir à signer avec une grande maison de disques. Les NFT offrent aux artistes davantage de possibilités de créer, de partager et de prospérer grâce à leur musique.",
+    "33":"NFTs pour le Metaverse Délivrer des noms d'utilisateur, des noms de domaine, des badges et des biens immobiliers numériques",
+    "34":"Les NFT peuvent être utilisés pour des noms de domaine, des badges, etc. Les particuliers et les organisations peuvent enregistrer leur nom d'utilisateur préféré pour interagir dans les univers Web3 avec une authentification unique. Les badges, comme les NFT de preuve de présence, permettent de vérifier la participation à des écosystèmes et peuvent être un moyen amusant de marquer des événements.",
+    "35":"Avec la multiplication des possibilités de métavers, il devient possible de prouver que l'on est propriétaire d'un terrain numérique grâce aux NFT. Les individus et les organisations peuvent construire sur leur terrain décentralisé, accueillir des événements et se rassembler dans leurs espaces numériques."
+    
+          },
+          "cybre":{
+            "1":"OAASE peut vous aider à résoudre votre cyber risque",
+            "2":"L'assurance active est une solution complète au risque numérique OAASE allie sécurité et assurance pour vous aider à identifier et à prévenir les cyberrisques avant qu'ils ne se produisent.",
+            "3":"Évaluation du risque Cyberance",
+            "4":"Grâce à une technologie de pointe et à des connaissances en cybernétique, une vue en direct du risque numérique.",
+            "5":"Défense Cyberance",
+            "6":"Une surveillance et des alertes individualisées sont utilisées pour réduire le risque avant qu'il ne s'aggrave.",
+            "7":"Réponse Cyberance",
+            "8":"Accès aux équipes internes d'intervention en cas d'incident et aux équipes chargées des sinistres qui peuvent agir rapidement pour répondre et récupérer.",
+            "9":"Qu'est-ce que Cyberance?",
+            "10":"Notre assurance est destinée à arrêter le danger numérique avant qu'il ne se produise. Elle combine la force de la technologie et de l'assurance pour aider les entreprises à identifier, réduire et gérer les risques numériques."
+          },
+          "dgmark":{
+            "1":"SERVICES DE GÉNÉRATION DE LEADS",
+            "2":"Il existe différentes définitions de la génération de prospects, mais dans le domaine du marketing, on entend généralement par là le fait de susciter l'intérêt des clients pour les biens ou les services proposés par une entreprise. La plupart des entreprises souhaitent fournir des prospects de qualité afin d'augmenter leurs revenus. Vous avez besoin d'une stratégie bien pensée et bien calculée si vous voulez produire un approvisionnement régulier de prospects entrants.",
+            "3":"Optimisation pour les moteurs de recherche (SEO)",
+            "4":"Nous pouvons vous aider à obtenir un meilleur classement organique et une plus grande visibilité dans les résultats de recherche en effectuant une recherche exhaustive de mots clés et en utilisant des techniques de référencement de type <white hat>. Notre société de marketing internet fournit une recherche approfondie de mots-clés, une optimisation sur et hors page, et utilise Google Search Console pour suivre vos résultats. Ces méthodes nous permettent d'acquérir des prospects et du trafic de haute qualité et d'améliorer vos conversions dans le cadre de vos solutions de marketing numérique.",
+            "5":"Marketing sur les médias sociaux",
+            "6":"Êtes-vous prêt à développer vos fans et à faire leur promotion sur les médias sociaux ? Nous créons des campagnes sur les médias sociaux pour promouvoir votre marque et interagir avec vos fans. Vos objectifs sont identifiés, une analyse comparative de la concurrence est effectuée et l'activité en ligne de vos consommateurs est évaluée par notre entreprise de marketing numérique. Nous créons des plans uniques de gestion de la marque sur les médias sociaux et de publicité payante adaptés à votre entreprise en utilisant des données et des analyses.",
+            "7":"Développement et conception de sites Web",
+            "8":"OAASE crée des sites web uniques, adaptés aux mobiles et optimisés pour le référencement, qui soutiennent vos initiatives de marketing numérique et vous aident à atteindre vos objectifs d'entreprise. Nous établissons une hiérarchie visuelle pour attirer l'attention sur les composants clés de votre site et motiver les utilisateurs du site à faire l'action requise. Nos professionnels de la conception de sites utilisent des appels à l'action (AAC) évidents, évitent les curseurs et les carrousels mobiles, simplifient les champs de formulaire et rédigent un contenu adapté à votre persona."
+          },
+          "insght":{
+            "1":"Pourquoi l’externalisation des développeurs est une décision commerciale judicieuse",
+            "2":"Dans l’environnement commercial concurrentiel d’aujourd’hui, les entreprises sont constamment à la recherche de moyens pour améliorer leurs opérations et rester en tête de la concurrence.…",
+            "3":"février 11, 2023",
+            "4":"L’intelligence artificielle : L’avenir est là",
+            "5":"L’intelligence artificielle (IA) révolutionne notre façon de vivre et de travailler, et elle fait rapidement partie intégrante de notre vie quotidienne. De Siri et Alexa…",
+            "6":"février 7, 2023",
+            "7":"Qu’est-ce que le Web 3.0 ? L’avenir d’Internet",
+            "8":"Web 3.0 (également connu sous le nom de web3) est la troisième itération ou version d’Internet, qui interconnecte les données de manière décentralisée pour offrir…",
+            "9":"novembre 18, 2022"
+          },
+          "contact":{
+            "1":"Parlons-en ?",
+            "2":"Faisons quelque chose de génial ensemble.",
+            "3":"Votre Prénom ",
+            "4":"Votre Nom",
+            "5":"Votre Email ",
+            "6":"Sélectionnez un service",
+            "7":"VOTRE MESSAGE ",
+            "8":"Envoyer",
+            "9":"Envoi en cours...",
+            "10":"message envoyé avec succès",
+            "11":"Quelque chose c'est mal passé. Merci d'essayer plus tard.",
+            "12":"Nous aimerions avoir de vos nouvelles.",
+            "13":"N'hésitez pas à nous contacter en utilisant les coordonnées ci-dessous."
+          }
+          
+          
+          
+          
+    
+    }

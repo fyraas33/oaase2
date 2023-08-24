@@ -1,0 +1,207 @@
+{
+
+    "banner":{
+        "wedo": "We do",
+        "digital":"DIGITAL things",
+        "start":"Getting Started",
+        "WebApp":"Web App",
+        "Digital":"Digital Transformation",
+        "Marketing":"Digital Marketing",
+        "card1p":"Custom design, development, and content for your web app from a qualified agency.",
+        "card2p":"Discovery and planning - from positioning to technology stack, tactics and beyond.",
+        "card3p":"Full suite of marketing services to help you achieve your goals, all under one roof."
+    },
+    
+     "navbar":{
+        "home": "Home",
+        "services": "Services",
+        "solutions": "Solutions",
+        "about": "About",
+        "insights": "Insights",
+        "contact": "Contact"
+      },
+     
+    "services":{
+      "wewrk":"WE WORK WITH YOU, NOT FOR YOU",
+      "Outs":"Outsourcing",
+      "3d":"3D Visualization",
+      "mcrsft":"Microsoft solutions",
+      "web3":"WEB 3.0 SOLUTIONS ",
+      "cyber":"Cyberance"
+    },
+    "solutions":{
+      "wdo":"WE DO GREAT THINGS",
+      "title1":"Augmented Reality App",
+      "title2":"Lead management App",
+      "title3":"Call center CRM",
+      "solcp1":"With this App, 3D models can be displayed in different places. The result is an individual and creative marketing.",
+      "solcp2":" Is the overall end-to-end process of managing the lead lifecycle. This involves capturing and acquiring leads from different sources, qualifying them, distributing them to sales reps, tracking and recording online and offline interactions, such as emails, ad clicks, website visits, phone calls, and face-to-face meetings",
+      "solcp3":"Refers to a software tool that call center agents use to enhance the customer experience and increase efficiency. Call center CRM systems store records about customers, such as account information and contact history."
+
+      
+    },
+    "about":{
+      "abt":"About.",
+      "more":"WE'RE MORE THAN A DIGITAL AGENCY",
+      "hwrt":"Who we are",
+      "hwrp":"OAASE is a Swiss company based network of IT- and Management consultants. We combine professional experience in software development and know-how of establishing and managing offshore teams in North Africa.",
+      "orphy":"Our philosophy",
+      "orphyp":"The company offers software development, ERP development, Web sites, Mobile Apps, 3D, VR, Digital marketing, Branding and consulting services ranging from feasibility studies and optimization of existing operations, to establishment and management of dedicated offshore development centers.",
+      "hwrk":"How we work",
+      "hwrkp":"Refers to a software tool that call center agents use to enhance the customer experience and increase efficiency. Call center CRM systems store records about customers, such as account information and contact history."
+    },
+    "footer":{
+      "talk":"Let's Talk?",
+      "make":"Make an enquiry!",
+      "swiss":"Switzerland.",
+      "nmbr":"Our Numbers",
+      "agb":"AGB",
+      "Impressum":"Impressum",
+      "Datens":"Datenschutzerklärung"
+    },
+    "OUTSOURCING":{
+      "title": "OUTSOURCE YOUR REACT.JS DEVELOPMENT EFFECTIVELY",
+      "undrtlt":"WE'RE MORE THAN A DIGITAL AGENCY",
+      "prgrph":"React.js offers a wide range of potential applications, therefore you might wish to include it into your project. If this is the situation and you do not currently have an internal development team, outsourcing your React development to OAASE may be a wise move. There are correct and incorrect ways to accomplish this, of course. Making the appropriate decision can also make your life more simpler and the outcomes more stunning. In light of the foregoing, the following characteristics of a trustworthy React.js development team should be present:",
+      "crdtlt1":"Dedicated ReactJs developers with years of experience",
+      "cardp1":"At OAASE, our developers having been using ReactJs since its early inception to build dynamic websites and web applications. Our developers also have experience with other web technologies, including Angular, Vue.js, Flutter, and Blazor.",
+       "cardtlt2":"Streamlined project management",
+       "cardp2":"By guiding you through each step of the development cycle, this frees up time for you – and the rest of your team – to focus on your core business activities. At OAASE, our team of developers and project managers will take care of everything for you, so you can focus on what you do best – running a successful business.",
+       "cardtlt3":"Great",
+       "cardtlt3-2":"communication skills",
+       "cardp3":"Great communication is vital to a successful project. By outsourcing your ReactJs development needs to a company who can listen, ask (and answer) questions, and give you regular updates, this means you can relax knowing your project is in capable hands.",
+       "cardtlt4":"Cost-efficiency",
+       "cardp4":"Without the need to scout and on-board your own in-house development team, this means you save heaps of time and money on recruitment costs. At OAASE, our team of dedicated software developers are fully trained, skilled, and ready to start on your project. Simply share your project details, and we’ll take care of the rest for you!",
+       "wlcm":"WELCOME TO OAASE",
+       "wrbreact":"WHAT ARE THE BENEFITS OF REACTJS?",
+       "lastp":"Despite the fact there are so many JavaScript libraries to choose from, over the years, both developers and businesses alike have gravitated towards ReactJs for a number of reasons. In fact, it is estimated that over 1,160,652 websites are using ReactJs, including the likes of Yahoo, Discord, and PayPal to name a few.",
+       "img":"./abtreact.png"
+      
+     
+  },
+
+  "3d":{
+    "1":"3D Visualization",
+    "2":"Real Estate and Architecture 3D Rendering Services",
+    "3":"Interior Rendering",
+    "4":"An effective tool for expressing design ideas and obtaining striking images for pre-selling real estate. The use of computer-generated imagery (CGI) can make any concept come to life and enable the impossible: presenting the design, zoning, materials, textures, colors, lighting, furniture, and other elements of a place. Professional CG graphics also resembles a work of art. It's lovely, photoreal, atmospheric, and the ideal marketing tool.",
+    "5":"Exterior Rendering",
+    "6":"A CGI solution that transformed the real estate and architectural industries. Buildings of any size or type may be shown using external visualization before any actual construction has ever been planned. Using photoreal exterior renderings, architects and developers may easily communicate their concepts to customers, workers, and contest judges. Exterior rendering services can make luxurious houses, endearing old mansions, breathtaking skyscrapers, and restaurants come to life.",
+    "7":"CG Animation",
+    "8":"A key that releases the emotions and sparks the imagination of spectators. The property is toured by the audience in the architectural film as though it had already been completed. It displays the surroundings, the outside design, and guides the visitor within the structure. Architectural animation may also showcase the flawlessness of the design and every interior detail, as well as allow viewers to take in the breathtaking vistas from the windows. A genuine competitive advantage for real estate marketing and presentations is this incredibly immersive visual tool.",
+    "9":"3D Virtual Tours",
+    "10":"A top-notch interactive CGI solution that can captivate potential home buyers. Realtors, developers, and architects can use it to provide potential clients and consumers self-guided tours of the properties and projects they are promoting. Additionally, visitors may see every aspect of the prospective real estate property and experience its ambiance firsthand. And it is by no means all. For 3D virtual tours, customization options and details on the items used in interior design may be added.",
+    "11":"Same-day start, two-weeks delivery, and beautiful outcomes No Boundaries Photorealistic CGI",
+    "12":"FINISH THE BRIEF",
+    "13":"Send us a detailed brief as well as any materials required to quote and begin the job.",
+    "14":"KEEP IN TOUCH",
+    "15":"Examine the early results and provide feedback so that we can continue or make changes.",
+    "16":"APPROVE",
+    "17":"Approve the rough draft of the 3D rendering you wish us to produce.",
+    "18":"GET OUTCOMES",
+    "19":"Get marketing-ready pictures at the resolution you choose, with excellent lighting, reflections, and materials."
+
+  },
+  "mcrsft":{
+    "1":"BUSINESS APPLICATIONS",
+    "2":"Utilize solutions like Microsoft Office, CRM and ERP to run  ",
+    "3":"your business and increase employee productivity.",
+    "4":"Microsoft 365 is a suite of apps that helps businesses reduce costs, enable their digital workforce, and do their best work, from anywhere. Designed to help you achieve more with innovative Office apps, intelligent cloud services, and world-class security. These solutions are meant to address the needs of all different businesses. OAASE offers both Microsoft 365 Business and Microsoft 365 Enterprise packages.",
+    "5":"Microsoft Dynamics 365 is a family of enterprise resource planning (ERP) and customer relationship management (CRP) applications. There are over a dozen apps and add-ons, all designed to give your business maximum flexibility and help it be more agile. You’ll have a portfolio of intelligent business applications that empowers everyone to deliver operational excellence and create more engaging customer experiences. Dynamics 365 applications are made to work together—and with your existing systems—for a comprehensive solution that connects your entire business",
+    "6":"ESSENTIALS (AAD IDENTITY)",
+    "7":"Available for a limited time exclusively from OAASE, Microsoft Teams Essentials (AAD Identity) brings together the best of Teams with meetings, chat, calling, and collaboration. Teams Essentials can connect to your existing email system to provide an integrated experience like having all Teams notifications in your existing email inbox, all calendar events in Teams, and the ability to sign into Teams with your existing email address.",
+    "8":"MICROSOFT SPECIAL SECTORS",
+    "9":"You can purchase special Microsoft licenses if you’re part of one of the three specialty sectors – education, government, or nonprofit. Get easy to manage technology that’s also affordable and secure for your business. See below for eligibility and qualifications for each sector.",
+    "10":"MICROSOFT SECURITY",
+    "11":"Microsoft security solutions protect your business from cyberthreats across all Microsoft and third-party cloud services. Detect, identify, and respond to attacks while keeping employees trained and aware of future threats. Add-on licenses are also available to assess compliance risk, keep sensitive data safe, reduce internal risks, and get threat protection services.",
+    "12":"MICROSOFT POWER PRODUCTS",
+    "13":"Power products harness the power of AI to save time, automate repetitive tasks, and perform analytics on data. Get the feedback that your business needs from your customers with one or all of the power products below."
+  },
+  "web3":{
+    "1":"Private Blockchain Development Company",
+    "2":"OAASE has the experience and expertise to deliver high-quality, secure,",
+    "3":"and balanced private blockchain-driven ecosystems.",
+    "4":"PRIVATE BLOCKCHAIN",
+    "5":"DEVELOPMEN",
+    "6":"OAASE develops private blockchains for businesses so that you can have quick, inexpensive, and low-risk transactions between you and your business partners and customers.",
+    "7":"SMART CONTRACTS DEVELOPMENT (ICO)",
+    "8":"We can help your business get rid of the time-consuming middleman with our smart contracts development solutions. These solutions are designed to help companies successfully execute their ideas without time-consuming interventions or unnecessary and annoying red tape. Many of our solutions include adding automation to the process to free up time, save money, and increase your business's overall efficiency.",
+    "9":"CRYPTO EXCHANGE",
+    "10":"DEVELOPMENT",
+    "11":"Our bitcoin developers will give you a seamless cryptocurrency exchange experience that’s as secure as it is fast and easy to use. If your business operates using cryptocurrency, you can trust OAASE to improve your crypto exchange transactions, saving you time and money in the process",
+    "12":"DISTRIBUTED E-COMMERCE SOLUTION",
+    "13":"E-commerce businesses have benefitted greatly from blockchain technology in recent years. If your business is in the e-commerce sector, OAASE can help you revolutionize it with cost-efficient, fast, and safe solutions that will improve your business’s performance and ability to compete with other e-commerce businesses.",
+    "14":"NFT Solutions for Lifestyle Brands, Sports,",
+    "15":"and Gaming Organizations",
+    "16":"NFTs for Sports Clubs and Organizations Enhance fan and community engagement",
+    "17":"ONE.",
+    "18":" NFTs can enhance fan engagement with their favorite sports club. They represent novel ways to support the club and participate in team decisions. Sports organizations can create loyalty programs with tokens as a reward for unconditional support. Gamifying engagement could drive more excitement for in-person events, online experiences, and fantasy sports leagues.  ",
+    "19":"TWO.",
+    "20":"NFT data can also lead to a better understanding of fan interests and behaviour. Sports organizations can leverage this data to deliver high-demand activities and merchandise, as well as activate more efficient revenue streams.",
+    "21":"NFTs for Luxury Brands Improve Secondary Opportunities",
+    "22":" Associating an NFT with a luxury product can help solve issues around authenticity and certification. By issuing NFTs on Ethereum, consumers can be assured of a product’s provenance and authenticity, and brands can incorporate more efficient resale structures.",
+    "23":"Just as luxury products generate desire through scarcity, luxury brand NFTs create digital scarcity. NFTs can become a new product and revenue stream for brands, allowing them to experiment with creativity beyond the physical world while creating alternative ways to engage with customers.",
+    "24":"NFTs for Artists and Issuers Develop the culture and value of digital art",
+    "25":"Whether through generative art, profile picture collections, or one-of-ones, NFTs have blossomed as a new way to represent ownership of digital art on the internet. More and more people are using NFTs as their online avatar and contributing to community-building initiatives taking place online.",
+    "26":"Start capturing value across secondary market transactions. NFTs are programmable, allowing artists and organizations to bake in royalties and receive a percentage of resale value after the initial sale or auction. Organizations and individuals alike can continue capturing revenue as their art is resold.",
+    "27":"NFTs for Gaming Organizations Create game economies and catalyze organic growth",
+    "28":"NFTs are expanding gaming universes by allowing players to unlock in-game assets. Game creators can grant players actual ownership and transferability of the assets they gain, incentivizing them to engage more in the game’s world. This play-to-earn model is a useful strategy to encourage players to further game economies, as they have a valuable stake.",
+    "29":"Handing over ownership and rewards to players can have cascading effects within the actual adoption of a game, such as increased loyalty, organic growth, and composability with other projects.",
+    "30":"NFTs for Musical Artists and Supporters Simplify royalties and facilitate creative freedom",
+    "31":"Due to smart contracts on Ethereum, artists can receive royalties instantly through the secondary sales of NFTs. Tokens help generate new revenue streams for musicians, with enhanced fanbase interaction, and new music streaming avenues. Fans can use their favorite artists’ tokens to unlock exclusive perks like special events, merchandise, album extras, and even partial ownership of songs.",
+    "32":" Artists can create and launch their own NFT collections to go with album releases, and independent artists can grow a following and community on their own without signing with a big record label. NFTs create more opportunities for artists to make, share, and thrive off their music.",
+    "33":"NFTs for the Metaverse Issue usernames, domain names, badges, and digital real estate",
+    "34":"NFTs can be used for domain names, badges, and more. Individuals and organizations can register their preferred username to interact in Web3 universes with a single sign-on. Badges like proof of attendance NFTs can verify participation in ecosystems and can be a fun way to bookmark events.",
+    "35":"With increasing metaverse opportunities, proving your ownership of digital land becomes possible with NFTs. Individuals and organizations can build on their decentralized land, host events, and gather in their digital spaces."
+  } ,
+  "cybre":{
+    "1":"OAASE can help you solve your cyber risk",
+    "2":"Cyberance is a comprehensive solution to digital risk. OAASE blends security and insurance to assist you in identifying and preventing cyber risk before it occurs.",
+    "3":"Cyberance Risk Evaluation",
+    "4":"Powered by industry-leading technology and cyber knowledge, live view of digital risk",
+    "5":"Cyberance Defense",
+    "6":"Individualized risk monitoring and alerting is used to reduce risk before it worsens.",
+    "7":"Cyberance response",
+    "8":"access to internal incident response teams and claims teams who can act fast to respond and recover",
+    "9":"What is Cyberance?",
+    "10":"Our insurance is meant to stop digital danger before it happens. It combines the strength of technology and insurance to support businesses in identifying, reducing, and managing digital risks."
+  },
+  "dgmark":{
+    "1":"LEAD GENERATION SERVICES",
+    "2":"Different definitions of lead generation exist, but in marketing, it is generally understood to mean the creation of customer interest in the goods or services that a company offers. Most firms want to provide high-quality leads in order to increase revenue. You need a carefully thought-out and well-calculated strategy if you want to produce a steady supply of incoming leads.",
+    "3":"Optimization for search engines (SEO)",
+    "4":"We can assist you in achieving greater organic ranks and more exposure in search results by conducting comprehensive keyword research and utilizing white hat SEO techniques. Our internet marketing firm provides in-depth keyword research, on-page and off-page optimization, and uses Google Search Console to monitor your results. These methods allow us to acquire high-quality leads and traffic and enhance your conversions as part of your digital marketing solutions.",
+    "5":"Social Media Marketing",
+    "6":"Are you prepared to grow your following and promote to them on social media? We create social media campaigns to promote your brand and interact with your fans. Your goals are identified, competitive benchmarking is done, and the online activity of your consumers is assessed by our digital marketing firm. We create unique social media brand management and paid advertising plans suited to your company using data and analytics.",
+    "7":"Web Development & Design",
+    "8":"OAASE creates unique, mobile-friendly, and SEO-optimized websites that support your digital marketing initiatives and help you achieve your company goals. We establish a visual hierarchy to draw attention to your site's key components and motivate site users to do the required action. Our site design professionals employ obvious calls-to-action (CTAs), stay away from moving sliders and carousels, keep form fields simple, and write content tailored to your persona."
+  },
+  "insght":{
+    "1":"Why Outsourcing Developers is a Smart Business Decision",
+    "2":"In today’s competitive business environment, companies are constantly looking for ways to improve their operations and stay ahead of the competition. One solution that has…",
+    "3":"February 11, 2023",
+    "4":"Artificial Intelligence: The Future is Here",
+    "5":"Artificial Intelligence (AI) is revolutionizing the way we live and work, and it is rapidly becoming an integral part of our daily lives. From Siri…",
+    "6":"February 7, 2023",
+    "7":"What Is Web 3.0? Internet’s Future",
+    "8":"Web 3.0 (also known as web3) is the Internet’s third iteration or version, which interconnects data in a decentralized manner to provide a quicker and…",
+    "9":"November 18, 2022"
+  },
+  "contact":{
+    "1":"Let's Talk?",
+    "2":"Let’s make something awesome togheter",
+    "3":"First Name",
+    "4":"Last Name",
+    "5":"Email Address",
+    "6":"Select Service",
+    "7":"YOUR MESSAGE ",
+    "8":"Send",
+    "9":"Sending...",
+    "10":"Message sent successfully",
+    "11":"Something went wrong, please try again later.",
+    "12":"We would love to hear from you.",
+    "13":"Feel free to reach out using the below details."
+  }
+  
+    }
+    

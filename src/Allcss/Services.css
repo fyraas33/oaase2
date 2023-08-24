@@ -1,0 +1,294 @@
+/************ Banner Css ************/
+.srvs {
+    margin-top: 0;
+    padding: 20vh 0 100px 0;
+   margin-bottom: -10%;
+    background-position: 74% 35%;
+    background-color: #fff;
+    
+    background-size: 640px auto;
+    background-repeat: no-repeat;
+    
+  }
+  
+  /************ btn ************/
+ 
+  
+  .srvs .tagline {
+    width: 5em;
+    display: block;
+    height: 2px;
+    background-color: #FF0023;
+    margin: 0px 0 20px;
+  }
+  .srvs h2 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    letter-spacing: -1.9px;
+    line-height: 1;
+    margin-bottom: 20px;
+    display: block;
+    color: black;
+    
+  
+      
+  }
+  .srvs h3{
+    font-size:medium;
+    color: #FF0023;
+    font-weight: 800;
+    font-family: "Poppins", Sans-serif;
+    letter-spacing: -1px;
+  }
+  
+  .spacee{
+    
+        padding: 20px 0;
+        position: relative;
+        margin-top: 5%;
+     
+      
+      
+  }
+  /*6 grid */
+  .box1, .box2, .box3 ,.box4 ,.box5 ,.box6 {
+    width: 20vw; 
+    padding-top: 25%;
+    background-color: #f3f3f3;
+    margin: 5px;
+    height: -7vh;
+    position: relative;
+    transition: background-color 0.3s;
+  }
+  .box1:hover {
+    background-color: #00CAEB; 
+  }
+  .box2:hover {
+    background-color: #FF0023; 
+  }
+  .box3:hover {
+    background-color: #9b51e0; 
+  }
+  .box4:hover {
+    background-color: #fcb900; 
+  }
+  .box5:hover {
+    background-color: #00CAEB; 
+  }
+  .box6:hover {
+    background-color: #9b51e0; 
+  }
+  .box-title {
+    position: absolute;
+    top: 50%; 
+    left: 30%; 
+    transform: translate(-50% ,-50%); 
+    margin: 0;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    transition: transform 0.3s; 
+    font-weight: 700;
+    
+  }
+  .arrow-icon {
+    position: absolute;
+    top: 50%;
+    right: 30px; 
+    transform: translateY(-50% );
+    color: #000;
+    font-size: 24px;
+    line-height: 1; 
+    opacity: 0.6; 
+    transition: transform 0.3s;
+  }
+  /* Animation keyframes */
+@keyframes forward-animation {
+  0% {
+    transform: translateX(0); 
+  }
+  100% {
+    transform: translateX(10px); 
+  }
+}
+
+
+.box1:hover .arrow-icon ,.box1:hover .box-title  {
+  animation: forward-animation 0.3s forwards; 
+}
+
+.box2:hover .arrow-icon ,.box2:hover .box-title {
+  animation: forward-animation 0.3s forwards; 
+}
+
+.box3:hover .arrow-icon , .box3:hover .box-title{
+  animation: forward-animation 0.3s forwards; 
+}
+
+.box4:hover .arrow-icon  , .box4:hover .box-title{
+  animation: forward-animation 0.3s forwards; 
+}
+
+.box5:hover .arrow-icon , .box5:hover .box-title {
+  animation: forward-animation 0.3s forwards; 
+}
+
+.box6:hover .arrow-icon , .box6:hover .box-title {
+  animation: forward-animation 0.3s forwards; 
+}
+  
+  .griddd-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    max-width: 100%; /* Adjust as needed */
+    margin: 0 auto;
+  }
+  
+  @media (max-width: 768px) {
+    .griddd-container {
+      grid-template-columns: 1fr; /* Change to a single column layout */
+    }
+    .box1, .box2, .box3 ,.box4 ,.box5 ,.box6 {
+      width: 85vw; /* Take up full width of the viewport in mobile view */
+      padding-top: 25%; /* Adjust this value for the desired height */
+    }
+  }
+  /*end 6 grid*/
+  
+  /* Show in Large desktops and laptops */
+  @media (min-width: 1200px) {
+  
+    .srvs  {
+     
+      margin-top: 0;
+      
+     margin-bottom: -10%;
+      background-position: 70% 38%;
+          
+      background-size: 640px auto;
+      background-repeat: no-repeat;
+      
+      
+        }
+       
+    }
+    
+    /*Hide in Other Small Devices */
+    
+    
+    /* Landscape tablets and medium desktops */
+    @media (min-width: 992px) and (max-width: 1199px) {
+    
+         
+    
+    }
+    
+    /* Portrait tablets and small desktops */
+    @media (min-width: 768px) and (max-width: 991px) {
+    
+          
+        .srvs {
+          
+          padding: 11vh 0 100px 0;
+    
+        }
+    
+    }
+    
+    /* Landscape phones and portrait tablets */
+    @media (max-width: 767px) {
+    
+       
+        .srvs h2{ 
+          font-size: 7vw;
+         }
+         .srvs h3{ 
+            font-size: 3vw;
+          
+           }
+         
+    
+    .srvs {
+          
+      padding: 13vh 0 100px 0;
+  
+    }
+    
+    }
+    
+    /* Portrait phones and smaller */
+    @media (max-width: 480px) {
+    
+        
+       
+    }
+  .srsc{
+    width: 500vw;
+    height: 100px;
+    padding-bottom: 20%;
+    box-sizing: border-box;
+  }
+  .srvs button {
+    color: #000;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 40px;
+    letter-spacing: 0.8px;
+    display: flex;
+    align-items: center;
+  }
+  .srvs button svg {
+    font-size: 25px;
+    margin-left: 10px;
+    transition: 0.3s ease-in-out;
+    line-height: 1;
+  }
+  .srvs button:hover svg {
+    margin-left: 25px;
+  }
+  
+  
+  .txt-rotate > .wrap {
+    border-right: 0.08em solid #666;
+  }
+  
+
+
+ /* Desktop view (3x3 grid) */
+.button-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Use fractional units for responsive columns */
+  gap: 50px; /* Optional gap between buttons */
+}
+
+/* Mobile view (1 column) */
+@media screen and (max-width: 768px) {
+  .button-grid {
+    grid-template-columns: 1fr; /* Single column */
+  }
+}
+
+/* Add any other styles you want for the buttons */
+.button-grid .button-wrapper {
+  background-color: rgb(67, 64, 64); /* Gray background color */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 100px; /* Minimum button width */
+  height: 40px; /* Fixed button height */
+}
+
+.button-grid button {
+  /* Add your button styles here */
+  /* For example: padding, background-color, text color, etc. */
+  border: none;
+  background-color: rgb(67, 64, 64);
+  cursor: pointer;
+  width: 100%;
+  height: 100%;
+}
+
+/*under*/
+

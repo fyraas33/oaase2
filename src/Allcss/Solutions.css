@@ -1,0 +1,99 @@
+.carddd {
+    background-color: #f3f3f3;
+    
+    border-radius: 5px;
+    padding: 24px; /* Increase the padding to add more space inside the card */
+    margin: 10px;
+    flex: 1;
+    max-width: 500px; /* Increase the max-width to make the card bigger */
+    min-width: 387px; /* Increase the min-width to make the card bigger */
+    min-height: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Align items to the start (left) */
+    position: relative; /* Set the position to enable absolute positioning for the icon */
+    transition: background-color 0.3s ease;
+    transition:.6s;
+  
+    height: 506px;
+   
+  
+    
+  }
+  .carddd:hover {
+    background-color: #FF0023;
+    transform: rotatex(0deg);
+    transform: rotatez(0deg);
+    transition:.6s;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+    
+   
+  }
+  
+  .carddd:hover .icon-container svg   {
+    color: #fff; 
+    
+  }
+  .carddd:hover p  {
+    color: #fff; 
+    transform: translateY(-10px);
+    transition: transform 0.3s ease;
+  }
+  .carddd:hover h2 {
+    color: #fff;
+    transform: translateY(-10px);
+    transition: transform 0.3s ease;
+  }
+  .icon-container {
+    
+    
+    padding: 20px;
+    margin-bottom: 10px;
+  }
+  .carddd hr {
+    width: 100%;
+  
+    border: 0;
+    border-top: 3px solid #fff; /* Add a white horizontal line under the title */
+    margin: 8px 0; /* Add margin to the line for spacing */
+  }
+  .carddd:hover hr{
+    transform: translateY(-10px);
+    transition: transform 0.3s ease;
+  }
+  
+  .icon-container svg {
+    width: 40px;
+    height: 40px;
+    color: #E9204F;
+    transition: color 0.3s ease; /* Add transition for a smooth color change */
+  }
+ 
+  .carddd h2{
+    font-family: "Poppins", Sans-serif;;
+    
+     font-size: 22px;
+     font-weight: 600;
+     line-height: 1.5rem;
+    margin: 0px 0px 5px 0px;
+    text-overflow: ellipsis;
+   
+    white-space: nowrap;
+    
+   }
+   .carddd p {
+    color: #000;
+    line-height: 26px;
+   }
+   .carddd img{
+    width: 100%;
+    
+   }
+   .carddd:hover img{
+  
+    filter: brightness(0) invert(1);
+    transform: translateY(-10px);
+    transition: transform 0.3s ease;
+   }
+  
+

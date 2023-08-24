@@ -1,0 +1,822 @@
+/************ Custom Font ************/
+
+/************ Default Css ************/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 75px;
+}
+
+body {
+  font-weight: 400;
+  overflow-x: hidden;
+  position: relative;
+  background-color: #121212 !important;
+  color: #fff !important;
+  font-family: 'Centra', sans-serif !important;
+  
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+  line-height: normal;
+}
+
+p, a, li, button, ul {
+  margin: 0;
+  padding: 0;
+  line-height: normal;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  
+}
+
+button {
+  border: 0;
+  background-color: transparent;
+}
+
+input:focus, textarea:focus, select:focus {
+  outline: none;
+}
+
+@media (min-width:1700px) {
+	main .container {
+		max-width: 100%;
+		padding: 0 150px;
+	}
+}
+
+p.success {
+	color: green;
+}
+
+p.danger {
+	color: red;
+}
+/************ Navbar Css ************/
+.navvbar{
+  width:100%;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  z-index: 99;
+  box-shadow: 0 0 10px #000;
+  background: rgba(0,0,0,0.5);
+  
+}
+#chk1{
+  display: none;
+   
+   
+}
+i{
+  color: #fff;
+  
+}
+.arrow {
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  margin-left: 5px;
+  margin-bottom: 3px;
+}
+
+.navvbar .logo{
+  flex: 1;
+  color:#fff;
+   
+  margin-left: 15.5vw;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+.navvbar img{
+  width: 7vw;
+}
+
+
+
+.navvbar ul {
+  
+  display: flex;
+  
+  padding-right:15.5vw;
+}
+.navvbar ul li{
+  list-style: none;
+}
+.navvbar ul li a{
+  text-decoration: none;
+  color:#fff;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+.navvbar ul li a:hover{
+  border-bottom: 2px solid #fff;
+}
+.navvbar .menu{
+  font-size: 2.5em;
+  display: none;
+}
+@media(max-width:1000px){
+  .search-box button{
+      position: absolute;
+  }
+  .navvbar ul{
+      position: fixed;
+      top:100px;
+      right: -100%;
+      background: #000;
+      height: calc(100vh - 100px);
+      width:60%;
+      flex-direction: column;
+      align-items: center;
+      transition: right 0.5s linear;
+  }
+   
+  .navvbar .menu{
+      display: block;
+      width:100px;
+      text-align: center;
+  }
+  #chk1:checked ~ ul{
+      right: 0;
+      
+  }
+  .navvbar ul li a{
+  text-decoration: none;
+  color:#fff;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 10px 0px;
+  cursor: pointer ;
+}
+
+
+}
+/*responsive */
+ /* Landscape tablets and medium desktops */
+ @media (min-width: 1003px) and (max-width: 1199px) {
+  
+  .navvbar img {
+    width: 12vw;
+}
+.navvbar .logo{
+  flex: 1;
+  color:#fff;
+   
+  margin-left: 15.5vw;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+.navvbar ul li{
+  list-style: none;
+  margin: 50px;
+  
+}
+.navvbar ul li a{
+  text-decoration: none;
+  color:#fff;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 10px 4px;
+}
+.navvbar ul{
+  padding-right: 0vw;
+}
+
+
+}
+@media (min-width: 1010px) and (max-width: 1669px) {
+
+
+.navvbar ul li a{
+padding: 0px 0px;
+}
+.drpcontent a{
+  padding: 10px 10px !important;
+}
+
+
+}
+/* Portrait tablets and small desktops */
+@media (min-width: 768px) and (max-width: 991px) {
+
+  .navvbar img {
+    width: 13vw;
+}
+.navvbar {
+  background-color: #000;
+}
+.navvbar .logo{
+  flex: 1;
+  color:#fff;
+   
+  margin-left: 3vw;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+.navvbar ul li{
+  list-style: none;
+  margin: 40px;
+}
+
+
+}
+
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+
+  .navvbar img {
+    width: 16vw;
+}
+.navvbar {
+  background-color: #000;
+}
+.navvbar .logo{
+  flex: 1;
+  color:#fff;
+   
+  margin-left: 3vw;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+.navvbar ul li{
+  list-style: none;
+  margin: 20px;
+  
+}
+
+
+
+}
+
+/* Portrait phones and smaller */
+@media (max-width: 480px) {
+
+  .navvbar img {
+    width: 18vw;
+}
+.navvbar .logo{
+  flex: 1;
+  color:#fff;
+   
+  margin-left: 3vw;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+.navvbar ul li{
+  list-style: none;
+  margin: 20px;
+  
+}
+
+
+}
+/* Portrait phones and smaller */
+@media (min-width: 993px) and (max-width: 1669px){
+
+  .navvbar img {
+    width: 10vw;
+}
+.navvbar .logo{
+
+  color:#fff;
+   
+  margin-left: 2vw;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+.navvbar ul li{
+  list-style: none;
+  margin: 20px;
+  
+}
+
+
+
+}
+/* Landscape tablets and medium desktops */
+@media (min-width: 150px) and (max-width: 999px) {
+  
+
+
+
+.navvbar ul li a{
+  text-decoration: none;
+  color:#fff;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 10px 4px;
+}
+.navvbar ul{
+  padding-right: 0vw;
+}
+
+
+}
+
+
+
+/************ Banner Css ************/
+.banner {
+  margin-top: 0;
+  padding: 20vh 0 100px 0;
+ margin-bottom: -10%;
+  background-position: 74% 35%;
+  background-color: #000;
+  
+  background-size: 640px auto;
+  background-repeat: no-repeat;
+  
+}
+
+/************ btn ************/
+.vvd {
+  font-weight: 700;
+  color: #FF0023;
+  border: 1px solid #FF0023;
+  padding: 18px 34px;
+  font-size: 18px;
+  margin-left: 18px;
+	position: relative;
+	background-color: transparent;
+	transition: 0.3s ease-in-out;
+}
+.vvd span {
+  z-index: 1;
+}
+.vvd::before {
+  content: "";
+  width: 0%;
+  height: 100%;
+  position: absolute;
+  background-color: #FF0023;
+  left: 0;
+  top: 0;
+  z-index: -1;
+  transition: 0.3s ease-in-out;
+}
+.vvd:hover {
+  color: white;
+}
+.vvd:hover::before {
+	content: "";
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+/************ btn************/
+.banner .tagline {
+  width: 5em;
+  display: block;
+  height: 2px;
+  background-color: #FF0023;
+  margin: 40px 0 20px;
+}
+.banner h1 {
+  font-family: "Poppins", Sans-serif;
+  font-size: 4vw;
+  font-weight: 800;
+  letter-spacing: -1.9px;
+  line-height: 1;
+  margin-bottom: 20px;
+  display: block;
+
+	
+}
+
+
+
+/* Show in Large desktops and laptops */
+@media (min-width: 1200px) {
+
+  .banner  {
+    background-image: url(../src/assets/img/bannerimg.jpg);
+    margin-top: 0;
+    
+   margin-bottom: -10%;
+    background-position: 70% 38%;
+        
+    background-size: 640px auto;
+    background-repeat: no-repeat;
+    
+    
+      }
+     
+  }
+  
+  /*Hide in Other Small Devices */
+  
+  
+  /* Landscape tablets and medium desktops */
+  @media (min-width: 992px) and (max-width: 1199px) {
+  
+        .bgimg {
+          background-image: none;
+      }
+  
+  }
+  
+  /* Portrait tablets and small desktops */
+  @media (min-width: 768px) and (max-width: 991px) {
+  
+            .bgimg {
+          background-image: none;
+      }
+      .banner {
+        
+        padding: 11vh 0 100px 0;
+  
+      }
+  
+  }
+  
+  /* Landscape phones and portrait tablets */
+  @media (max-width: 767px) {
+  
+            .bgimg {
+          background-image: none;
+      }
+      .banner h1{ 
+        font-size: 13vw;
+       
+      
+  }
+  .banner {
+        
+    padding: 13vh 0 100px 0;
+
+  }
+  
+  }
+  
+  /* Portrait phones and smaller */
+  @media (max-width: 480px) {
+  
+            .bgimg  {
+          background-image: none;
+      }
+      .contact img {
+        display: none;
+      }
+      .map-container{
+        width: 400px !important;
+        height: 500px;
+        margin-top: 20px;
+      }
+  }
+.wedo{
+  
+  height: 169px;
+  padding-bottom: 20%;
+  box-sizing: border-box;
+  
+}
+
+.banner button {
+  color: #fff;
+  font-weight: 700;
+  font-size: 20px;
+  margin-top: 60px;
+  letter-spacing: 0.8px;
+  display: flex;
+  align-items: center;
+}
+.banner button svg {
+  font-size: 25px;
+  margin-left: 10px;
+  transition: 0.3s ease-in-out;
+  line-height: 1;
+}
+.banner button:hover svg {
+  margin-left: 25px;
+}
+
+
+.txt-rotate > .wrap {
+  border-right: 0.08em solid #666;
+}
+
+/*Services*/
+
+
+/************ Projects Css ************/
+.project {
+  padding: 70px 0;
+  position: relative;
+  margin-top: 5%;
+}
+
+
+
+
+
+
+
+
+/************ Projects Css ************/
+.contact {
+  background: #000;
+  padding: 60px 0 200px 0;
+}
+.contact img {
+  width: 92%;
+}
+.contact h2 {
+	font-size: 45px;
+	font-weight: 700;
+  margin-bottom: 30px;
+}
+.contact form input, .contact form textarea ,.contact form select {
+  width: 100%;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 20px;
+  color: #fff;
+  margin: 0 0 8px 0;
+  padding: 18px 26px;
+  font-weight: 500;
+  font-size: 18px;
+  letter-spacing: 0.8px;
+  transition: 0.3s ease-in-out;
+}
+.contact form input:focus, .contact form textarea:focus ,.contact form select:focus {
+  background: rgba(255, 255, 255, 1);
+  color: #121212;
+}
+.contact form input::placeholder, .contact form textarea::placeholder {
+  font-size: 16px;
+  font-weight: 400;
+  color: #fff;
+}
+.contact form input:focus::placeholder, .contact form textarea:focus::placeholder {
+  color: #121212;
+  opacity: 0.8;
+}
+.contact form button {
+  font-weight: 700;
+  color: #000;
+  background-color: #fff;
+  padding: 14px 48px;
+  font-size: 18px;
+  margin-top: 25px;
+  border-radius: 0;
+  position: relative;
+  transition: 0.3s ease-in-out;
+}
+.contact form button span {
+  z-index: 1;
+  position: relative;
+}
+.contact form button:hover {
+  color: #fff;
+}
+.contact form button::before {
+  content: "";
+  background: #FF0023;
+  width: 0;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  transition: 0.3s ease-in-out;
+}
+.contact form button:hover::before {
+  width: 100%;
+}
+
+
+
+/* src/Card.css */
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+}
+
+
+.cardd {
+  background-color: #1b1b1b;
+  height: 372px;
+  border-radius: 5px;
+  padding: 24px; /* Increase the padding to add more space inside the card */
+  margin: 10px;
+  flex: 1;
+  max-width: 400px; /* Increase the max-width to make the card bigger */
+  min-width: 300px; /* Increase the min-width to make the card bigger */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* Align items to the start (left) */
+  position: relative; /* Set the position to enable absolute positioning for the icon */
+  transition: background-color 0.3s ease;
+  transition:.6s;
+
+  
+  
+  box-shadow: 0px 20px 60px rgba(0,0,0, 0.5);
+  
+}
+
+.cardd:hover {
+  background-color: #FF0023;
+  transform: rotatex(0deg);
+  transform: rotatez(0deg);
+  transition:.6s;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+  
+ 
+}
+
+.cardd:hover .icon-container svg   {
+  color: #fff; /* Change the icon color to white on hover */
+  
+}
+.cardd:hover img  {
+  filter: brightness(0) invert(1);
+
+  
+}
+.cardd p {
+  line-height: 26px;
+  font-size: 17px;
+}
+
+
+.icon-container {
+  
+  
+  padding: 20px;
+  margin-bottom: 10px;
+}
+.cardd hr {
+  width: 100%;
+
+  border: 0;
+  border-top: 3px solid #fff; /* Add a white horizontal line under the title */
+  margin: 8px 0; /* Add margin to the line for spacing */
+}
+
+.icon-container svg {
+  width: 40px;
+  height: 40px;
+  color: #E9204F;
+  transition: color 0.3s ease; /* Add transition for a smooth color change */
+}
+.cardtitle{
+ font-family: "Poppins", Sans-serif;;
+  padding-bottom: 2vh;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.5rem;
+ margin: 0px 0px 5px 0px;
+ text-overflow: ellipsis;
+ overflow: hidden;
+ white-space: nowrap;
+ 
+}
+
+/* Add additional styling as needed */
+
+
+.drpdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #1b1b1b;
+  min-width: 192px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  padding-top: 20px;
+  
+}
+@media (max-width: 480px){
+  .dropdown-content{
+    min-width: 168px;
+  }
+  }
+  strong{
+    font-weight: bold !important;
+  }
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  
+}
+
+
+.dropdown-content a:hover {background-color: #FF0023;}
+
+.drpdown:hover .dropdown-content {display: block;}
+
+
+/*3d background*/
+
+.w-full{
+  width: 100%;
+}
+.h-screen{
+  height: 45vh;
+}
+.topp-0{
+  top: 0;
+}
+.absolute{
+  position:absolute;
+}
+.left-0{
+  left: 0px;
+}
+
+ /* keyframe*/
+@keyframes fade-up {
+  0% {
+    opacity: 0;
+    transform: translateY(30px) scale(0.9) ;
+  }
+  100% { 
+opacity: 1;
+transform: translateY(0px) scale(1);
+  }
+}
+
+
+.navvbar {
+  transition: transform 0.3s ease;
+  /* Your other navbar styles */
+}
+
+.navvbar-visible {
+  transform: translateY(0);
+}
+
+.navvbar-hidden {
+  transform: translateY(-100%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 1400px){
+.contii{
+   max-width: 1225px !important; 
+}
+}
+
+.map-container{
+  width: 520px;
+  height: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
